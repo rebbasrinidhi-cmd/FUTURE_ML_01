@@ -1,0 +1,6 @@
+Model,MAE ($),RMSE ($),MAPE (%),WAPE (%),Bias (%)
+Ridge regression,169.568,219.947,6.379,6.279,2.165
+Hybrid: Ridge + boosting,174.92,224.202,6.506,6.493,-0.011
+Gradient boosting,259.006,367.435,9.177,9.515,-5.084
+Recent weekday average,367.682,509.737,13.865,13.777,-1.789
+Seasonal naive (same day last year),378.118,483.216,14.36,14.008,-9.916
